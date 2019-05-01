@@ -1,5 +1,5 @@
-// You can edit this code!
-// Click here and start typing.
+// Proof of Center Limit Theoreum
+
 package main
 
 import (
